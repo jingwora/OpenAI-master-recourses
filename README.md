@@ -4,10 +4,12 @@ OpenAI API collection of tools, tutorials,  insights, and best practices tailore
 
 ## Resources:
 
-### [OpenAI's cookbook](https://cookbook.openai.com/)
+OpenAI Document [🌐](https://platform.openai.com/) 
+
+OpenAI's cookbook[🌐](https://cookbook.openai.com/)
 - The OpenAI Cookbook is an open-source collection of examples and guides for building with the OpenAI API.
 
-- Tokenizer Count [🌐](https://platform.openai.com/tokenizer)
+Tokenizer Count [🌐](https://platform.openai.com/tokenizer)
 
 | Language | Input | Tokens |
 |:--------:|:-----:|:------:|
