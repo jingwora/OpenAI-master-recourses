@@ -10,10 +10,15 @@ OpenAI API collection of tools, tutorials,  insights, and best practices tailore
 - Tokenizer Count [🌐](https://platform.openai.com/tokenizer)
 
 | Language | Input | Tokens |
-|:---|:---:|---:|
-| English | I | 1 |
-| Japan | 私 | 3 |
-| Chinese | 我 | 2 |
-| Thai | ฉัน |6 |
+|:--------:|:-----:|:------:|
+| English  |   I   |   1    |
+| Chinese  |   我  |   2    |
+| Japanese |   私  |   3    |
+| Korean   |   나  |   3    |
+| Thai     |  ฉัน  |   6    |
+
+
+
+
 
  
