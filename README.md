@@ -8,6 +8,7 @@ OpenAI API collection of tools, tutorials,  insights, and best practices tailore
 - The OpenAI Cookbook is an open-source collection of examples and guides for building with the OpenAI API.
 
 - Tokenizer Count [🌐](https://platform.openai.com/tokenizer)
+
 | Language | Input | Tokens |
 |:---|:---:|---:|
 | English | I | 1 |
