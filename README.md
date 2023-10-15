@@ -19,8 +19,7 @@ Tokenizer Count [🌐](https://platform.openai.com/tokenizer)
 | Korean   |   나  |   3    |
 | Thai     |  ฉัน  |   6    |
 
-
-
+As a rough rule of thumb, 1 token is approximately 4 characters or 0.75 words for English text.
 
 
  
