@@ -3,4 +3,4 @@ OpenAI API collection of tools, tutorials,  insights, and best practices tailore
 
 Resources:
 
-- [OpenAI](https://cookbook.openai.com/)
+- [OpenAI's cookbook](https://cookbook.openai.com/)
